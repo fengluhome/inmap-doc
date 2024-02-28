@@ -1,0 +1,1 @@
+webpackJsonp([88],{619:function(n,e,a){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default='\nvar inmap = new inMap.Map({\n    id: "allmap",\n    skin: "Blueness",\n    center: ["114.215408", "22.654411"],\n    zoom: {\n    value: 11,\n    show: true,\n    max: 22\n    }\n});\n'}});
